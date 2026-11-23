@@ -1,0 +1,11 @@
+
+
+train: E:/yolov5.4-master/data/jujube1/train.txt
+val: E:/yolov5.4-master/data/jujube1/val.txt
+
+
+# number of classes：数据集的类别数
+nc: 2
+
+# class names
+names: ['jujube','gjujube']
